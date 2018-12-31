@@ -35,6 +35,17 @@ He went on to discuss about the objections: Theological,Mathematical etc. Despit
 
 ![Abstract Mathematical System: Turing Machine](.gitbook/assets/turing_machine_image.gif)
 
+  
+
+
+In order to simulate a Turing Machine, we need the following things:
+
+* The initial tape.
+* The transitions, which is a dictionary that maps a state to a set of rules. Each rule maps a tape symbol to a state change.
+* A starting state number and starting tape position.
+
+{% file src=".gitbook/assets/turing\_machines.py" caption="Turing Machine implemented in Python" %}
+
 
 
 
