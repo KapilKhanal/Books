@@ -20,3 +20,5 @@ $ give me critical-thinking powers
 
 The research paper that introduced concepts are used in modern industry will be covered more than older research papers
 
+Since, I already had a University level Machine learning and Statistical learning course, I have more background to start reading machine learning but that doesn't mean you shouldn't start reading research paper. This is why i usually keep it non math, more intuitive style. Being a Math major too, I struggle with all this math. But the end goal of AI is intuition. Every fancy Math theorem, tricks are used so that AI/program will behave like a rational human. I believe starting with "summary" of research papers and grabbing a good book that covers the most of those research paper will formally keep you ahead of the ML research community. This is what i think and that's why i started this "Book"
+
