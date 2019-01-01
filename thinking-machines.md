@@ -48,5 +48,5 @@ In order to simulate a Turing Machine, we need the following things:
 
 
 
-
+Alan Turing understands that it what he is saying "Thinking Machines" is basically "Imitation Machine" . Can a computer imitate a human being? how good it can be on imitating?. In Summary, If it "Swims like a duck, walks like a duck, quacks like a duck, is it duck?". Most people believe so...
 
