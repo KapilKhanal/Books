@@ -16,5 +16,7 @@ When a 15 year old cares more about the research papers and research methodology
 $ give me critical-thinking powers
 ```
 
+![I will try to read research paper on this sequence ](.gitbook/assets/screen-shot-2018-12-31-at-9.15.38-pm.png)
 
+The research paper that introduced concepts are used in modern industry will be covered more than older research papers
 
