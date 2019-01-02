@@ -1,7 +1,7 @@
 ---
 description: >-
-  I will read several research papers and i will write summaries here in a way a
-  15 year would understand.This might sound like blah blah blah...But i strongly
+  I will read several research papers and I will write summaries here in a way a
+  15 year would understand.This might sound like blah blah blah...But I strongly
   believe it's a good start.
 ---
 
