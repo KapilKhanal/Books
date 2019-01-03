@@ -2,7 +2,7 @@
 description: 'https://arxiv.org/pdf/1101.0891.pdf'
 ---
 
-# To Explain or To Predict\(Instrumentalism vs Realism\)
+# To Predict or To Explain\(Instrumentalism vs Realism\)
 
 ## Instrumentalism vs Realism
 
@@ -48,4 +48,6 @@ The philosophy of artificial intelligence attempts to answer such questions as f
 * Can a machine have a [mind](https://en.wikipedia.org/wiki/Philosophy_of_mind), mental states, and [consciousness](https://en.wikipedia.org/wiki/Consciousness) in the same way that a human being can? Can it feel how things are?
 
 In depth Explanation : [http://www.columbia.edu/~mj340/HSNS4805\_12\_Jones.pdf](http://www.columbia.edu/~mj340/HSNS4805_12_Jones.pdf)
+
+Summary : In the last two decades, a highly instrumentalist form of statistical and machine learning has achieved an extraordinary success as the computational heart of the phenomenon glossed as “predictive analytics,” “data mining,” or “data science.” This instrumentalist culture of prediction emerged from subfields within applied statistics, artificial intelligence, and database management. This essay looks at representative developments within computational statistics and pattern recognition from the 1950s onward, in the United States and beyond, central to the explosion of algorithms, techniques, and epistemic values that ultimately came together in the data sciences of today. This essay is part of a special issue entitled Histories of Data and the Database edited by Soraya de Chadarevian and Theodore M. Porter.
 
