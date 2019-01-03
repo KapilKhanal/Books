@@ -47,3 +47,5 @@ The philosophy of artificial intelligence attempts to answer such questions as f
 * Are human intelligence and machine intelligence the same? Is the [human brain](https://en.wikipedia.org/wiki/Human_brain) essentially a computer?
 * Can a machine have a [mind](https://en.wikipedia.org/wiki/Philosophy_of_mind), mental states, and [consciousness](https://en.wikipedia.org/wiki/Consciousness) in the same way that a human being can? Can it feel how things are?
 
+In depth Explanation : [http://www.columbia.edu/~mj340/HSNS4805\_12\_Jones.pdf](http://www.columbia.edu/~mj340/HSNS4805_12_Jones.pdf)
+
