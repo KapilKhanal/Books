@@ -39,5 +39,7 @@ _Long-term memory \(LTM\)_:  Represents our permanent storehouse of information.
 
 _Retrieval  :_ The process of retrieval from long-term memory is relatively simple to understand. Previously learned information is brought back to mind, either for the purposes of understanding some new input or for making a response.
 
+**Cognitive-Constructivist Learning Theories:**  The common belief that knowledge is constructed within a social context is the foundation.Learning is a socially mediated experience where individuals construct knowledge based on interactions with their social and cultural environment.
 
+![Performance assessment for learning minds and machines](.gitbook/assets/screen-shot-2019-01-08-at-12.22.23-pm.png)
 
