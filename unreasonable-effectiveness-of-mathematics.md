@@ -14,6 +14,10 @@ The laws of nature like those that were based on simple empricial observation li
 
 To end:The miracle of the appropriateness of the language of mathematics for the formulation of the laws of physics is a wonderful gift which we neither understand nor deserve. We should be grateful for it and hope that it will remain valid in future research and that it will extend, for better or for worse, to our pleasure, even though perhaps also to our bafflement, to wide branches of learning
 
+**Will we have some beautiful equation of intelligence? Say like,**  $$E = mc^2$$ 
+
+
+
 ### 
 
   
