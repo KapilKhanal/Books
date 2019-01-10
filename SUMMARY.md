@@ -9,4 +9,7 @@
 * [To Predict or To Explain\(Instrumentalism vs Realism\)](to-explain-or-to-predict.md)
 * [A Logical Calculus of the Ideas](a-logical-calculus-of-the-ideas.md)
 * [Mathematical Theory of Communication: Information theory](information-theory.md)
+* [A Theory of the Learnable](a-theory-of-the-learnable.md)
+* [No Free lunch theorem](no-free-lunch-theorem.md)
+* [Survey of Deep Learning](survey-of-deep-learning.md)
 
