@@ -9,13 +9,15 @@ description: >-
 
 ## Why?
 
-When a 15 year old cares more about the research papers and research methodology than kardashians or pew dii pew\(whatever!\), then the critical thinking skills will start to serve the society. Reading research papers are only sure way to increase the maturity required to do the research 
+When a 15 year old cares more about the research papers and research methodology , then the critical thinking skills will start to serve the society. Reading research papers are only sure way to increase the maturity required to do the research 
 
 
 
 ```
 $ give me critical-thinking powers
 ```
+
+> Email : KKhanal16@winona.edu for further discussion
 
 ![I will try to read research paper on this sequence ](.gitbook/assets/screen-shot-2018-12-31-at-9.15.38-pm.png)
 
