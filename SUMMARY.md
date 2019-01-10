@@ -11,5 +11,6 @@
 * [To Predict or To Explain\(Instrumentalism vs Realism\)](to-explain-or-to-predict.md)
 * [Mathematical Theory of Communication: Information theory](information-theory.md)
 * [No Free lunch theorem](no-free-lunch-theorem.md)
+* [Bayes Factor:Kass & Raftery](bayes-factor-kass-and-raftery.md)
 * [Survey of Deep Learning](survey-of-deep-learning.md)
 

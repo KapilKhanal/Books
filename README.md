@@ -9,6 +9,8 @@ description: >-
 
 ## Why?
 
+Most of the people on internet only go through the blogs and tutorials. That is a great way but I feel like "Survey papers" lay the good big picture of the field/concepts/technology. 
+
 When a 15 year old cares more about the research papers and research methodology , then the critical thinking skills will start to serve the society. Reading research papers are only sure way to increase the maturity required to do the research 
 
 
