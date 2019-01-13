@@ -31,6 +31,8 @@ Since, I already had a University level Machine learning and Statistical learnin
 
 > Do yourself a favor, and pull back, at least a little. Don’t spend every waking hour hacking TensorFlow or PyTorch, no matter how tempting these may be. Learn AI! Understand the large number of subfields, and what people in these subfields do. \***Read the classic papers**\*\*\*. Understand the “frame problem”, what is the “no-free-lunch “ theorem in ML, what “behavior-based robotics” is all about, what the major issues in natural language processing are, what “random projections” are, and so on. There is an ocean of work in AI that is not DL, and it is every bit as exciting as DL is. And then, yes, if you must, certainly learn TF or PT. :-\)
 
+Most of the ideas in recent machine learning advancements has its origin and inspiration on theories developed in past. 
+
 > Nothing on these papers are my work. All credits are to authors of those papers.I am reading those and write as i understood. So, it's always wise decision to read those original works. These summaries are like fast food. Quick but i don't guarantee wellbeing of health. 
 >
 > I would like to thank these authors for doing these wonderful work for humanity!
