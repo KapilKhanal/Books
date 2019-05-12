@@ -19,7 +19,7 @@ Like some elements of human learning seems genetically programmed with a lot of 
 
 **Probably Approximate learning**: Perhaps the main technical discovery contained in the paper is that the notion of learning from data examples and probability distributions that generate those data, . With this probabilistic notion of learning highly convergent learning is possible for whole classes of Boolean functions. 
 
-The main gist of paper was : Introduce The Hypothesis or "_Candidate function_". See how good it generalized for data examples and formulate how good/bad  in terms of probabilistic concepts.The intuition is "Hypothesis" generalizing well for lots and lots of training data are unlikely to be wrong and more likely to be "Probably Approximate learning".
+The main gist of paper was : Introduce The Hypothesis or "_Candidate function_". See how good it generalized for data examples and formulate how good/bad  in terms of probabilistic concepts.The intuition is "Hypothesis" generalizing well for lots and lots of training data are unlikely to be wrong and more likely to be "Probably Approximate correct".
 
  This appears to distinguish this approach from more traditional ones where learning is seen as a process of "inducing" some general rule from information. 
 
