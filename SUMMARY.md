@@ -15,4 +15,5 @@
 * [Mathematical Theory of Communication: Information theory](information-theory.md)
 * [No Free lunch theorem](no-free-lunch-theorem.md)
 * [Bayes Factor:Kass & Raftery](bayes-factor-kass-and-raftery.md)
+* [Tukey:The Future of Data Analysis](tukey-the-future-of-data-analysis.md)
 
